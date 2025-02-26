@@ -10,5 +10,5 @@ nodepool_subnet     = ["10.44.0.0/21"]
 dns_service_ip      = "10.44.8.10"
 service_cidr        = "10.44.8.0/22"
 resources_subnet    = ["10.44.12.0/27"]
-authorized_ip_range = ["152.58.16.85"]
+authorized_ip_range = ["152.58.32.25"]
 
